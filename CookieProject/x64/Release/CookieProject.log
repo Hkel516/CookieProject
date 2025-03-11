@@ -1,0 +1,11 @@
+﻿  Cookie.cpp
+  CookieDB.cpp
+  CookieList.cpp
+  Interface.cpp
+  Main.cpp
+  Testing.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 383 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CookieProject.vcxproj -> C:\Users\deagl\Documents\CookieProject-3\x64\Release\CookieProject.exe
